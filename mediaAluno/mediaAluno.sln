@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mediaAluno", "mediaAluno\mediaAluno.csproj", "{D88118FC-6A58-47E8-9402-431C3950E97E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D88118FC-6A58-47E8-9402-431C3950E97E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88118FC-6A58-47E8-9402-431C3950E97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88118FC-6A58-47E8-9402-431C3950E97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88118FC-6A58-47E8-9402-431C3950E97E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D74B321-F834-4218-8BB1-17E031EF47B6}
+	EndGlobalSection
+EndGlobal
