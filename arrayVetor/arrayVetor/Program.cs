@@ -15,12 +15,12 @@ class arrayVetor
         }
 
         i = 0;
-       do
+        do
         {
             Console.WriteLine("A nota - {0} foi -> {1}", i, nota[i]);
             i++;
         } while (i <4);
-       
+
         
 
     }
