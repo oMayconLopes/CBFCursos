@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodoVariaveisStatic", "metodoVariaveisStatic\metodoVariaveisStatic.csproj", "{57195EEB-8CF5-498D-AC7B-D71E57A754BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57195EEB-8CF5-498D-AC7B-D71E57A754BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57195EEB-8CF5-498D-AC7B-D71E57A754BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57195EEB-8CF5-498D-AC7B-D71E57A754BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57195EEB-8CF5-498D-AC7B-D71E57A754BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F906E5F-9DF7-496E-ACE2-60A427DD4348}
+	EndGlobalSection
+EndGlobal
